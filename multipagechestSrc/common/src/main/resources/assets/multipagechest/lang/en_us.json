@@ -1,0 +1,6 @@
+{
+  "block.multipagechest.multipagechest": "Multi Page Chest",
+  "container.multipagechest": "Multi Page Chest",
+  "gui.multipagechest.destroy_item": "Destroy Item",
+  "gui.multipagechest.page": "%s / %s"
+}
